@@ -28,6 +28,12 @@ img {
     margin-right: auto;
 	width: 30%;
 }
+t{
+	font-family: "Comic Sans MS", Arial;
+	font-size: 16pt;
+	color: #000000;
+	text-align: center;
+}
 p{
 	font-family: "Comic Sans MS", Arial;
 	font-size: 18pt;
