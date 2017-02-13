@@ -28,9 +28,9 @@ img {
     margin-right: auto;
 	width: 30%;
 }
-t{
+.text{
 	font-family: "Comic Sans MS", Arial;
-	font-size: 16pt;
+	font-size: 12pt;
 	color: #000000;
 	text-align: center;
 }
